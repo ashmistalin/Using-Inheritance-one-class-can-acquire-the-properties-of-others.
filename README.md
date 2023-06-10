@@ -1,0 +1,1 @@
+# Using-Inheritance-one-class-can-acquire-the-properties-of-others.
